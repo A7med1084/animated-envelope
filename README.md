@@ -7,7 +7,7 @@ When hovering over the envelope, it opens smoothly and reveals a card inside wit
 
 ## 🚀 Demo
 👉 You can view the project live here:  
-
+ https://a7med1084.github.io/animated-envelope/
 
 ---
 
