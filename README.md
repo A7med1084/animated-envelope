@@ -11,6 +11,12 @@ When hovering over the envelope, it opens smoothly and reveals a card inside wit
 
 ---
 
+## 📸 Preview
+![Preview 1](images/animated-envelope-1.png)
+![Preview 2](images/animated-envelope-2.png)
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3 (Animations, Transforms, Perspective)
